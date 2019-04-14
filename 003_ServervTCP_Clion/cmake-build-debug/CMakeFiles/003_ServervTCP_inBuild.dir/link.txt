@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -lsqlite3 -g   CMakeFiles/003_ServervTCP_inBuild.dir/serverTcp/server6.cpp.o  -o 003_ServervTCP_inBuild -lsqlite3 

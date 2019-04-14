@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -lsqlite3 -g   CMakeFiles/untitled.dir/serverTcp/server5.cpp.o  -o untitled -lsqlite3 

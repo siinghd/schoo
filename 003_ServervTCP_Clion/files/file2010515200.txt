@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Sun Apr 14 13:05:00 2019
+ GMT
+Server: thisIsSinghsLazyServer/0.1.1
+Content-Type: text/html
+Connection: close
+

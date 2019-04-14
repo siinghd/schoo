@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Sun Apr 14 13:18:29 2019
+ GMT
+Server: thisIsSinghsLazyServer/0.1.1
+Content-Type: text/html
+Connection: close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Buy Marsian</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="myJs.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+  <h2>THIS IS TEST - SQLITE</h2>
+  <p>Here you can buy Marsians - Captured during the 9th space war</p>   
+  <h6>Note* this site is illegal!</h6>         
+<table class='table table-bordered'><tr><th>codMarsian</th><th>nameOfMarsian</th><th>priceOfMarsian</th><th>powerOfMarsian</th></tr><tr><td>B201</td><td>Dinosaurs</td><td>250</td><td>500</td><tr><td>B205</td><td>PlutoFungogeno</td><td>80</td><td>750</td><tr><td>B999</td><td>LastMarsian</td><td>0.500000</td><td>3</td><tr><td>B001</td><td>FirstMarsian</td><td>9999999</td><td>8888888</td></table></div>
+
+</body>
+</html>
